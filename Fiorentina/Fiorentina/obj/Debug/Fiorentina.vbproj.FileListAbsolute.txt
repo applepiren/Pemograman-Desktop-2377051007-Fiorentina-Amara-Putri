@@ -1,0 +1,44 @@
+c:\users\hp\documents\visual studio 2013\Projects\Fiorentina\Fiorentina\bin\Debug\Fiorentina.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\Fiorentina\Fiorentina\obj\Debug\Fiorentina.Form1.resources
+c:\users\hp\documents\visual studio 2013\Projects\Fiorentina\Fiorentina\obj\Debug\Fiorentina.Form2.resources
+c:\users\hp\documents\visual studio 2013\Projects\Fiorentina\Fiorentina\obj\Debug\Fiorentina.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\Fiorentina\Fiorentina\obj\Debug\Fiorentina.vbproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\Fiorentina\Fiorentina\bin\Debug\Fiorentina.exe
+c:\users\hp\documents\visual studio 2013\Projects\Fiorentina\Fiorentina\bin\Debug\Fiorentina.pdb
+c:\users\hp\documents\visual studio 2013\Projects\Fiorentina\Fiorentina\bin\Debug\Fiorentina.xml
+c:\users\hp\documents\visual studio 2013\Projects\Fiorentina\Fiorentina\obj\Debug\Fiorentina.exe
+c:\users\hp\documents\visual studio 2013\Projects\Fiorentina\Fiorentina\obj\Debug\Fiorentina.xml
+c:\users\hp\documents\visual studio 2013\Projects\Fiorentina\Fiorentina\obj\Debug\Fiorentina.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Fiorentina\Fiorentina\bin\Debug\Fiorentina.exe.config
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Fiorentina\Fiorentina\obj\Debug\Fiorentina.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Fiorentina\Fiorentina\obj\Debug\Fiorentina.xml
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Fiorentina\Fiorentina\obj\Debug\Fiorentina.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Fiorentina\Fiorentina\obj\Debug\Fiorentina.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Fiorentina\Fiorentina\obj\Debug\Fiorentina.Form2.resources
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Fiorentina\Fiorentina\obj\Debug\Fiorentina.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Fiorentina\Fiorentina\obj\Debug\Fiorentina.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Fiorentina\Fiorentina\bin\Debug\Fiorentina.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Fiorentina\Fiorentina\bin\Debug\Fiorentina.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Fiorentina\Fiorentina\bin\Debug\Fiorentina.xml
+C:\Penyimpanan Utama\FIO Project DESKTOP\Fiorentina\Fiorentina\Fiorentina\bin\Debug\Fiorentina.exe.config
+C:\Penyimpanan Utama\FIO Project DESKTOP\Fiorentina\Fiorentina\Fiorentina\obj\Debug\Fiorentina.exe
+C:\Penyimpanan Utama\FIO Project DESKTOP\Fiorentina\Fiorentina\Fiorentina\obj\Debug\Fiorentina.xml
+C:\Penyimpanan Utama\FIO Project DESKTOP\Fiorentina\Fiorentina\Fiorentina\obj\Debug\Fiorentina.pdb
+C:\Penyimpanan Utama\FIO Project DESKTOP\Fiorentina\Fiorentina\Fiorentina\obj\Debug\Fiorentina.Form1.resources
+C:\Penyimpanan Utama\FIO Project DESKTOP\Fiorentina\Fiorentina\Fiorentina\obj\Debug\Fiorentina.Form2.resources
+C:\Penyimpanan Utama\FIO Project DESKTOP\Fiorentina\Fiorentina\Fiorentina\obj\Debug\Fiorentina.Resources.resources
+C:\Penyimpanan Utama\FIO Project DESKTOP\Fiorentina\Fiorentina\Fiorentina\obj\Debug\Fiorentina.vbproj.GenerateResource.Cache
+C:\Penyimpanan Utama\FIO Project DESKTOP\Fiorentina\Fiorentina\Fiorentina\bin\Debug\Fiorentina.exe
+C:\Penyimpanan Utama\FIO Project DESKTOP\Fiorentina\Fiorentina\Fiorentina\bin\Debug\Fiorentina.pdb
+C:\Penyimpanan Utama\FIO Project DESKTOP\Fiorentina\Fiorentina\Fiorentina\bin\Debug\Fiorentina.xml
+C:\Users\SANDI SYAPUTRA\Downloads\Fiorentina\Fiorentina\Fiorentina\bin\Debug\Fiorentina.exe.config
+C:\Users\SANDI SYAPUTRA\Downloads\Fiorentina\Fiorentina\Fiorentina\obj\Debug\Fiorentina.exe
+C:\Users\SANDI SYAPUTRA\Downloads\Fiorentina\Fiorentina\Fiorentina\obj\Debug\Fiorentina.xml
+C:\Users\SANDI SYAPUTRA\Downloads\Fiorentina\Fiorentina\Fiorentina\obj\Debug\Fiorentina.pdb
+C:\Users\SANDI SYAPUTRA\Downloads\Fiorentina\Fiorentina\Fiorentina\obj\Debug\Fiorentina.Form1.resources
+C:\Users\SANDI SYAPUTRA\Downloads\Fiorentina\Fiorentina\Fiorentina\obj\Debug\Fiorentina.Form2.resources
+C:\Users\SANDI SYAPUTRA\Downloads\Fiorentina\Fiorentina\Fiorentina\obj\Debug\Fiorentina.Resources.resources
+C:\Users\SANDI SYAPUTRA\Downloads\Fiorentina\Fiorentina\Fiorentina\obj\Debug\Fiorentina.vbproj.GenerateResource.Cache
+C:\Users\SANDI SYAPUTRA\Downloads\Fiorentina\Fiorentina\Fiorentina\bin\Debug\Fiorentina.exe
+C:\Users\SANDI SYAPUTRA\Downloads\Fiorentina\Fiorentina\Fiorentina\bin\Debug\Fiorentina.pdb
+C:\Users\SANDI SYAPUTRA\Downloads\Fiorentina\Fiorentina\Fiorentina\bin\Debug\Fiorentina.xml
